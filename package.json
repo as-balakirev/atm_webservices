@@ -1,0 +1,19 @@
+{
+  "name": "atm_webservices",
+  "version": "1.0.0",
+  "description": "Module 12 ATM program - Webservices",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha './test/*.test.js'"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Aleksandr Balakirev",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chai": "^4.3.0",
+    "mocha": "^8.2.1"
+  }
+}
